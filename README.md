@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/badboy-tian/StickerView.svg)](https://jitpack.io/#badboy-tian/StickerView)
+
 ## 主要功能
 图片和文字贴图<br>
 对贴图进行缩放、拖拽、翻转、删除、编辑等操作（A view which can add sticker and zoom,drag,flip,delete,edit it）<br>
